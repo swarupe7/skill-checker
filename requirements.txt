@@ -2,4 +2,4 @@ Groq
 pandas
 PyPDF2
 streamlit
-sklearn
+scikit-learn
